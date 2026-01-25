@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Build Artifacts
+build/
+dist/
+*.spec
+GhostWriter_Release/
+
+# User Settings
+settings.json
+
+# IDEs
+.vscode/
+.idea/
+.claude/
+
+# Logs
+*.log
