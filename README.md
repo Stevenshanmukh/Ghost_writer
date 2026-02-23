@@ -1,6 +1,10 @@
 # 👻 GhostWriter
 ![GhostWriter](ghost_icon.png)
 
+## 📸 App Screenshot
+![App Screenshot](App%20Screenshot.png)
+
+
 **Talk instead of typing.**
 
 GhostWriter is a free, private tool for Windows that types what you say into *any* app—Word, Notepad, Discord, or your web browser. 
